@@ -1,1 +1,3 @@
-<div class="tenor-gif-embed" data-postid="14835314" data-share-method="host" data-aspect-ratio="1.78771" data-width="100%"><a href="https://tenor.com/view/lucky-star-anime-konata-izumi-computer-desktop-gif-14835314">Lucky Star Anime GIF</a>from <a href="https://tenor.com/search/lucky+star-gifs">Lucky Star GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+<div id="header" align="center">
+  <img src="https://tenor.com/bapvq.gif" width="100"/>
+</div>
