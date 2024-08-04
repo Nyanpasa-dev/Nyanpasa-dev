@@ -1,4 +1,4 @@
-<style> 
+<style>
 @charset "utf-8";
 /* CSS Document */
 body			{ background: #def; font-family: 'Century Gothic', 'Lucida Grande', 'Microsoft JhengHei', '微軟正黑體', Tahoma, PMingLiu; font-size: 12px; text-align: center; }
