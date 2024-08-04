@@ -1,8 +1,5 @@
-<!DOCTYPE html>
-<html lang="ja">
-  <head>
-    <meta charset="UTF-8" />
-    <style> 
+
+<style> 
 @charset "utf-8";
 /* CSS Document */
 body			{ background: #def; font-family: 'Century Gothic', 'Lucida Grande', 'Microsoft JhengHei', '微軟正黑體', Tahoma, PMingLiu; font-size: 12px; text-align: center; }
@@ -338,7 +335,7 @@ div.kirakira		{ -ms-animation: kirakira 0.5s infinite; -moz-animation: kirakira 
 	0%, 50%, 100% { margin: 0; }
 	25%, 75% { margin: 0 0 0 2px; }
 }
-    </style>
+</style>
 <div id="main">
   <div id="ins">
     <div class="draw">
@@ -352,12 +349,10 @@ div.kirakira		{ -ms-animation: kirakira 0.5s infinite; -moz-animation: kirakira 
         <div class="hb6"></div>
         <div class="hb7"></div>
       </div>
-
       <div id="neck">
         <div class="neck1"></div>
         <div class="neck2"></div>
       </div>
-
       <div id="clothes">
         <div class="clothes1"></div>
         <div class="clothes2"></div>
@@ -384,7 +379,6 @@ div.kirakira		{ -ms-animation: kirakira 0.5s infinite; -moz-animation: kirakira 
         </div>
         <div class="clothes17"></div>
       </div>
-
       <div id="hair_right" class="fuwafuwa_l">
         <div class="hr1"></div>
         <div class="hr2"></div>
@@ -394,7 +388,6 @@ div.kirakira		{ -ms-animation: kirakira 0.5s infinite; -moz-animation: kirakira 
         <div class="hr6"></div>
         <div class="hr7"></div>
       </div>
-
       <div id="face">
         <div class="face1"></div>
         <div class="face2"></div>
@@ -415,12 +408,10 @@ div.kirakira		{ -ms-animation: kirakira 0.5s infinite; -moz-animation: kirakira 
         <div class="face17"></div>
         <div class="face18"></div>
       </div>
-
       <div id="ear">
         <div class="ear1"></div>
         <div class="ear2"></div>
       </div>
-
       <div id="hair_left" class="fuwafuwa_r">
         <div class="hl1"></div>
         <div class="hl2"></div>
@@ -434,7 +425,6 @@ div.kirakira		{ -ms-animation: kirakira 0.5s infinite; -moz-animation: kirakira 
         <div class="hl10"></div>
         <div class="hl11"></div>
       </div>
-  
       <div id="hair_front">
         <div class="hair_front">
           <div class="hf1"></div>
@@ -485,7 +475,6 @@ div.kirakira		{ -ms-animation: kirakira 0.5s infinite; -moz-animation: kirakira 
           </div>
           <div class="hfl6d"></div>
         </div>
-  
         <div id="hair_frontr1" class="fuwafuwa_r">
           <div class="hfr1a"></div>
           <div class="hfr1b"></div>
@@ -514,12 +503,10 @@ div.kirakira		{ -ms-animation: kirakira 0.5s infinite; -moz-animation: kirakira 
           <div class="hfr4c"></div>
         </div>
       </div>
-  
       <div id="brows">
         <div class="brows1"></div>
         <div class="brows2"></div>
       </div>
-  
       <div id="mouth">
         <div class="mouth1 hover">
           <div class="mouth1a"></div>
@@ -530,7 +517,6 @@ div.kirakira		{ -ms-animation: kirakira 0.5s infinite; -moz-animation: kirakira 
         <div class="mouth3"></div>
         <div class="mouth4"></div>
       </div>
-  
       <div id="eye">
         <div id="eye_left">
           <div class="eyel1"></div>
@@ -543,7 +529,6 @@ div.kirakira		{ -ms-animation: kirakira 0.5s infinite; -moz-animation: kirakira 
           <div class="eyel8"></div>
           <div class="eyel9"></div>
         </div>
-  
         <div id="eye_right">
           <div class="eyer1"></div>
           <div class="eyer2"></div>
@@ -556,7 +541,6 @@ div.kirakira		{ -ms-animation: kirakira 0.5s infinite; -moz-animation: kirakira 
           <div class="eyer9"></div>
         </div>
       </div>
-  
       <div id="light">
         <div class="light1"></div>
         <div class="light2"></div>
@@ -571,12 +555,10 @@ div.kirakira		{ -ms-animation: kirakira 0.5s infinite; -moz-animation: kirakira 
         <div class="light11"></div>
         <div class="light12"></div>
       </div>
-  
       <div id="dark">
         <div class="dark1"></div>
         <div class="dark2"></div>
       </div>
-  
       <div id="hand" class="hover">
               <div class="hand1"></div>
         <div class="hand2"></div>
@@ -591,7 +573,6 @@ div.kirakira		{ -ms-animation: kirakira 0.5s infinite; -moz-animation: kirakira 
         <div class="hand11"></div>
         <div class="hand12"></div>
       </div>
-  
       <div id="bubble" class="hover">
         <div class="bubble1"></div>
         <div class="bubble2"></div>
@@ -600,4 +581,3 @@ div.kirakira		{ -ms-animation: kirakira 0.5s infinite; -moz-animation: kirakira 
     </div>
   </div>
 </div>
-  </html>
